@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[[!Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasmendes)](https://github.com/llucasmendes)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasmendes)](https://github.com/llucasmendes)
+
 
 
 Here are some ideas to get you started:
