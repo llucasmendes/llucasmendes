@@ -2,7 +2,7 @@
 
 [![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=llucasmendes)](https://github.com/llucasmendes)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llucasmendes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
